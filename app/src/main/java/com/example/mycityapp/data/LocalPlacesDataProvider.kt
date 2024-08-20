@@ -19,7 +19,7 @@ object LocalPlacesDataProvider {
     val defaultPlace: Places = Places(
         id = 1,
         name = R.string.coffee_shop_01,
-        description = R.string.place_description,
+        description = R.string.place_description_default,
         rating = Random.nextInt(1, 10),
         image = R.drawable.coffe_shop_template
     )
@@ -29,114 +29,114 @@ object LocalPlacesDataProvider {
             id = 1,
             image = R.drawable.coffe_place_01,
             name = R.string.coffee_shop_01,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_01,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 2,
             image = R.drawable.coffe_place_02,
             name = R.string.coffee_shop_02,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_02,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 3,
             image = R.drawable.coffe_place_03,
             name = R.string.coffee_shop_03,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_03,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 4,
             image = R.drawable.coffe_place_04,
             name = R.string.coffee_shop_04,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_04,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 5,
             image = R.drawable.coffe_place_05,
             name = R.string.coffee_shop_05,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_05,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 6,
             image = R.drawable.coffe_place_06,
             name = R.string.coffee_shop_06,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_06,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 7,
             image = R.drawable.coffe_place_07,
             name = R.string.coffee_shop_07,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_07,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 8,
             image = R.drawable.coffe_place_08,
             name = R.string.coffee_shop_08,
-            description = R.string.place_description,
+            description = R.string.coffee_shop_descr_08,
             rating = Random.nextInt(1, 10)
         ),
     )
     private val restaurantDataProvider: List<Places> = listOf(
         Places(
             id = 1,
-            image = -1,
+            image = R.drawable.restaurant_place_01,
             name = R.string.restaurant_01,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_01,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 2,
-            image = -1,
+            image = R.drawable.restaurant_place_02,
             name = R.string.restaurant_02,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_02,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 3,
-            image = -1,
+            image = R.drawable.restaurant_place_03,
             name = R.string.restaurant_03,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_03,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 4,
-            image = -1,
+            image = R.drawable.restaurant_place_04,
             name = R.string.restaurant_04,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_04,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 5,
-            image = -1,
+            image = R.drawable.restaurant_place_05,
             name = R.string.restaurant_05,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_05,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 6,
-            image = -1,
+            image = R.drawable.restaurant_place_06,
             name = R.string.restaurant_06,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_06,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 7,
-            image = -1,
+            image = R.drawable.restaurant_place_07,
             name = R.string.restaurant_07,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_07,
             rating = Random.nextInt(1, 10)
         ),
         Places(
             id = 8,
-            image = -1,
+            image = R.drawable.restaurant_place_08,
             name = R.string.restaurant_08,
-            description = R.string.place_description,
+            description = R.string.restaurant_descr_08,
             rating = Random.nextInt(1, 10)
         ),
     )

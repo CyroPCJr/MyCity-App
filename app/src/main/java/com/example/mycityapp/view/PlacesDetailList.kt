@@ -86,7 +86,7 @@ private fun CategoryPlaceList(
                     fontWeight = FontWeight.Bold
                 )
                 Text(
-                    text = stringResource(id = R.string.place_description),
+                    text = stringResource(id = places.description),
                     fontWeight = FontWeight.Medium, maxLines = 2, overflow = TextOverflow.Ellipsis
                 )
                 Text(
@@ -133,7 +133,7 @@ fun PlaceDetail(places: Places, modifier: Modifier = Modifier) {
                 .padding(all = 10.dp)
         )
         Text(
-            text = stringResource(id = R.string.place_description),
+            text = stringResource(id = places.description),
             fontWeight = FontWeight.Medium,
             modifier = Modifier.padding(all = 10.dp)
         )

@@ -6,6 +6,12 @@
     <string name="screen_title_place_list">Places</string>
     <string name="screen_title_place_detail">Places Detail</string>
 
+    <string name="place_description_default">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+
     <string name="category_coffee">Coffee Shops</string>
     <string name="category_restaurants">Restaurants</string>
     <string name="category_kid_friendly">Kids Friendly</string>
@@ -21,11 +27,28 @@
     <string name="coffee_shop_07">Dreamy Moose</string>
     <string name="coffee_shop_08">Espresso Yourself</string>
 
-    <string name="place_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </string>
+    <string name="coffee_shop_descr_01">This coffee shop offers an authentic Italian experience with a selection of premium espresso drinks, fresh pastries, and Italian desserts.
+        The decor is elegant, featuring marble countertops, soft lighting, and cozy seating, creating a warm and inviting atmosphere.</string>
+    <string name="coffee_shop_descr_02">Nestled in a quaint neighborhood, this French café combines the charm of rustic décor with the elegance of French patisserie.
+        Wooden tables, wrought iron chairs, and exposed brick walls set the scene for enjoying fresh croissants, artisanal bread, and perfectly brewed coffee.</string>
+    <string name="coffee_shop_descr_03">A lively and spacious coffee shop that brings a taste of Brazil to every cup.
+        The vibrant decor includes colorful murals, tropical plants, and upbeat Brazilian music.
+        The menu features rich Brazilian coffee, pão de queijo, and other traditional Brazilian snacks.</string>
+    <string name="coffee_shop_descr_04">This coffee bar emphasizes simplicity and precision, much like Japanese tea ceremonies.
+        The minimalist design includes neutral tones, clean lines, and a tranquil atmosphere.
+        The menu offers meticulously brewed pour-over coffee, matcha lattes, and delicate Japanese sweets.</string>
+    <string name="coffee_shop_descr_05">A vibrant and lively coffee shop with a distinctly Mexican flair.
+        The colorful decor includes bright walls, folk art, and hanging papel picado banners.
+        The menu offers rich Mexican coffee, churros, and other traditional treats, creating a festive and welcoming environment.</string>
+    <string name="coffee_shop_descr_06">A modern, airy space with large windows and plenty of natural light.
+        The decor includes hanging plants, recycled materials, and messages promoting sustainability.
+        The menu offers creative, plant-based beverages and snacks, featuring organic and locally sourced ingredients.</string>
+    <string name="coffee_shop_descr_07">This charming spot is perfect for a leisurely morning or afternoon.
+        The cozy environment includes small tables, comfortable chairs, and a display filled with freshly baked bread, cakes, and pastries.
+        The scent of freshly brewed coffee and baked goods fills the air, making it a comforting place to relax.</string>
+    <string name="coffee_shop_descr_08">A traditional coffeehouse with a warm, inviting atmosphere.
+        The walls are decorated with black-and-white photos of classic American scenes.
+        The menu features strong, freshly brewed coffee, homemade muffins, and hearty breakfast sandwiches, offering a taste of classic American comfort.</string>
 
     <string name="place_rate">Rating (1–10): %d</string>
 
@@ -37,6 +60,29 @@
     <string name="restaurant_06">Avid Trail Bar and Grill</string>
     <string name="restaurant_07">Aster and Via Supper Club</string>
     <string name="restaurant_08">Pan Eats</string>
+
+    <string name="restaurant_descr_01">This restaurant offers an authentic Italian dining experience, featuring fresh, house-made pasta, traditional sauces, and a robust wine list.
+        The decor is elegant, with soft lighting and marble details, creating a cozy yet sophisticated atmosphere.</string>
+    <string name="restaurant_descr_02">Located in a charming neighborhood, this French bistro combines classic French cuisine with a modern twist.
+        The ambiance is rustic, with wooden tables, wrought iron chairs, and exposed brick walls.
+        The menu focuses on seasonal dishes and fresh ingredients.</string>
+    <string name="restaurant_descr_03">A spacious and lively restaurant where the highlight is the all-you-can-eat meat service.
+        The large, comfortable tables are perfect for groups.
+        The décor features elements of Brazilian culture, such as photo panels of Brazilian landscapes and live samba or bossa nova music.</string>
+    <string name="restaurant_descr_04">This Japanese restaurant emphasizes simplicity and elegance.
+        The design is minimalist, with neutral tones, clean lines, and soft lighting.
+        The sushi bar is the focal point, where chefs prepare dishes with precision and attention to detail.</string>
+    <string name="restaurant_descr_05">With a vibrant and lively atmosphere, this Mexican cantina is decorated with bold colors, folk art paintings, and paper lanterns.
+        The menu is filled with traditional Mexican dishes like tacos, burritos, and enchiladas, accompanied by fresh margaritas.</string>
+    <string name="restaurant_descr_06">A modern and airy space with large windows and plenty of natural light.
+        The walls are adorned with hanging plants and framed messages about sustainability.
+        The menu is creative, offering innovative vegan dishes made with organic, locally sourced ingredients.</string>
+    <string name="restaurant_descr_07">This charming café is the perfect place to start the day.
+        The atmosphere is cozy, with small tables, comfortable chairs, and a display case filled with freshly made bread, cakes, and pastries.
+        The scent of freshly ground coffee and baking bread creates an irresistible ambiance.</string>
+    <string name="restaurant_descr_08">A traditional steakhouse with a warm and sophisticated ambiance.
+        The walls are adorned with black-and-white photographs of American life scenes.
+        The menu focuses on high-quality cuts of meat, grilled to perfection, accompanied by classics like mashed potatoes and grilled vegetables.</string>
 
 
 </resources>
