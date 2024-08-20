@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">MyCityApp</string>
+    <string name="btn_back">Back</string>
+
+    <string name="screen_title_category">Category</string>
+    <string name="screen_title_place_list">Places</string>
+    <string name="screen_title_place_detail">Places Detail</string>
+
+    <string name="category_coffee">Coffee Shops</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_kid_friendly">Kids Friendly</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_shopping_centers">Shopping Centers</string>
+
+    <string name="coffee_shop_01">Beany Business</string>
+    <string name="coffee_shop_02">Bistro at the Point</string>
+    <string name="coffee_shop_03">Boston Barista</string>
+    <string name="coffee_shop_04">Brew HaHa</string>
+    <string name="coffee_shop_05">Cafe Royale</string>
+    <string name="coffee_shop_06">Diva Espresso</string>
+    <string name="coffee_shop_07">Dreamy Moose</string>
+    <string name="coffee_shop_08">Espresso Yourself</string>
+
+    <string name="place_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+
+    <string name="place_rate">Rating (1–10): %d</string>
+
+    <string name="restaurant_01">Proud Taste Tavern</string>
+    <string name="restaurant_02">Funky Star Lounge</string>
+    <string name="restaurant_03">Glazed Falcon Tavern</string>
+    <string name="restaurant_04">Spirited (The Numbers of Your Address) Cucina</string>
+    <string name="restaurant_05">Grove Kitchen</string>
+    <string name="restaurant_06">Avid Trail Bar and Grill</string>
+    <string name="restaurant_07">Aster and Via Supper Club</string>
+    <string name="restaurant_08">Pan Eats</string>
+
+
 </resources>
