@@ -84,5 +84,41 @@
         The walls are adorned with black-and-white photographs of American life scenes.
         The menu focuses on high-quality cuts of meat, grilled to perfection, accompanied by classics like mashed potatoes and grilled vegetables.</string>
 
+    <string name="kid_places_01">Gourmet Italian-Themed Playground</string>
+    <string name="kid_places_02">Rustic French Countryside Playground</string>
+    <string name="kid_places_03">Brazilian Carnival Playground</string>
+    <string name="kid_places_04">Minimalist Japanese Zen Garden Playground</string>
+    <string name="kid_places_05">Colorful Mexican Fiesta Playground</string>
+    <string name="kid_places_06">Eco-Friendly Vegan Playground</string>
+    <string name="kid_places_07">Artisanal Bakery-Themed Playground</string>
+    <string name="kid_places_08">Classic American Adventure Playground</string>
+
+    <string name="kid_place_descr_01">This playground offers an Italian-inspired experience with play areas designed to resemble an Italian village.
+        Children can explore little cobblestone streets, pretend to cook in mini pizzerias, and enjoy soft play structures.
+        The décor is colorful and charming, creating a delightful and imaginative atmosphere.</string>
+    <string name="kid_place_descr_02">Set in a scenic park, this playground captures the charm of the French countryside.
+        Wooden play structures, like barns and windmills, are surrounded by lush greenery and flower beds.
+        Kids can enjoy swings, slides, and a small petting zoo, all in a serene and natural environment.</string>
+    <string name="kid_place_descr_03">A vibrant and lively playground inspired by the energy of Brazil\'s famous carnival.
+        The area features colorful climbing structures, slides, and swings, all decorated with bright murals and banners.
+        There’s a section for music and dance, where kids can play instruments and dance to samba beats.</string>
+    <string name="kid_place_descr_04">This playground is designed with simplicity and tranquility in mind, reflecting the aesthetics of a Japanese Zen garden.
+        The play structures include smooth wooden bridges, balance beams, and rock gardens.
+        There are areas for quiet play, such as sand pits and water features, promoting mindfulness and calm.</string>
+    <string name="kid_place_descr_05">A lively and colorful playground inspired by the spirit of a Mexican fiesta.
+        The space is decorated with bright murals, <i>papel picado</i>banners, and piñata-shaped climbing structures.
+        Children can enjoy a variety of play equipment, including slides, swings, and a splash pad, all set within a festive environment.</string>
+    <string name="kid_place_descr_06">A modern and sustainable playground designed with environmental consciousness in mind.
+        The play structures are made from recycled materials and surrounded by organic gardens.
+        Kids can play in treehouse, explore nature trails, and participate in gardening activities, learning about sustainability while they have fun.</string>
+    <string name="kid_place_descr_07">This cozy playground is designed to resemble a quaint bakery.
+        Children can play in oversize cupcake houses, slide down doughnut slides, and climb on bread-shaped structures.
+        The playground features soft colors, comfortable seating areas for parents, and the scent of fresh pastries in the air.</string>
+    <string name="kid_place_descr_08">A traditional playground with a nostalgic Americana theme.
+        The area includes classic play structures like wooden forts, tire swings, and seesaws.
+        The décor features red, white, and blue colors, with sections dedicated to different regions of the U.S., offering a blend of fun and cultural exploration.</string>
+
+
+
 
 </resources>
