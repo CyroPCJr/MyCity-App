@@ -21,7 +21,6 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -34,11 +33,9 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.mycityapp.R
-import com.example.mycityapp.data.LocalPlacesDataProvider
 import com.example.mycityapp.model.Places
 import com.example.mycityapp.viewmodel.CityPlaceViewModel
 
@@ -156,14 +153,17 @@ fun ListPlaceWithDetailsExpanded(
             modifier = Modifier
                 .weight(1f)
                 .padding(horizontal = dimensionResource(R.dimen.email_list_only_horizontal_padding)),
-            verticalArrangement = Arrangement.spacedBy(space = dimensionResource(id = R.dimen.email_list_item_vertical_spacing))) {
-                items(list) { item ->
-                    CategoryPlaceList(places = item, onClickDetailItem = onClickItem)
-                }
+            verticalArrangement = Arrangement.spacedBy(space = dimensionResource(id = R.dimen.email_list_item_vertical_spacing))
+        ) {
+            items(list) { item ->
+                CategoryPlaceList(places = item, onClickDetailItem = onClickItem)
             }
-            PlaceDetail(viewModel.currentPlace(), modifier = Modifier
+        }
+        PlaceDetail(
+            viewModel.currentPlace(), modifier = Modifier
                 .padding(top = dimensionResource(R.dimen.email_list_item_vertical_spacing))
-                .weight(1f))
+                .weight(1f)
+        )
 
     }
 }
