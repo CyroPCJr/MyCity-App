@@ -167,11 +167,3 @@ fun ListPlaceWithDetailsExpanded(
 
     }
 }
-
-@Preview
-@Composable
-private fun PlaceDetailPreview() {
-    Surface {
-        PlaceDetail(LocalPlacesDataProvider.getPlacesById(3))
-    }
-}

@@ -118,7 +118,76 @@
         The area includes classic play structures like wooden forts, tire swings, and seesaws.
         The décor features red, white, and blue colors, with sections dedicated to different regions of the U.S., offering a blend of fun and cultural exploration.</string>
 
+    <string name="park_place_01">Gourmet Italian-Themed Park</string>
+    <string name="park_place_02">Rustic French Countryside Park</string>
+    <string name="park_place_03">Brazilian Carnival Park</string>
+    <string name="park_place_04">Minimalist Japanese Zen Park</string>
+    <string name="park_place_05">Colorful Mexican Fiesta Park</string>
+    <string name="park_place_06">Eco-Friendly Vegan Park</string>
+    <string name="park_place_07">Artisanal Bakery-Themed Park</string>
+    <string name="park_place_08">Classic American Adventure Park</string>
 
+    <string name="park_place_descr_01">This park offers a touch of Italian elegance with its beautiful gardens, stone pathways, and fountains.
+        Visitors can stroll through sections inspired by Italian villas, with olive trees, vineyards, and picnic areas.
+        The park also features open spaces for children to play and a small amphitheater for live performances, making it a perfect spot for family outings.</string>
+    <string name="park_place_descr_02">This park is reminiscent of the French countryside, with rolling hills, wildflower meadows, and charming wooden bridges over gentle streams.
+        Rustic picnic tables and benches are scattered throughout, providing peaceful spots for relaxation.
+        There’s also a small farm area where visitors can see animals and learn about traditional French farming.</string>
+    <string name="park_place_descr_03">A vibrant and lively park that captures the spirit of Brazil\'s famous carnival.
+        The park is full of colorful sculptures, murals, and playgrounds.
+        There are large open spaces for music and dance, as well as walking paths lined with tropical plants.
+        Special events, like samba performances and craft fairs, are regularly held, creating a festive atmosphere.</string>
+    <string name="park_place_descr_04">This park is designed to reflect the tranquility and simplicity of a Japanese Zen garden.
+        Visitors can enjoy peaceful strolls along gravel paths, admire the carefully pruned bonsai trees, and meditate by the koi ponds.
+        The park also features quiet areas for yoga and tai chi, making it a perfect escape from the hustle and bustle of city life.</string>
+    <string name="park_place_descr_05">A lively and colorful park inspired by the vibrancy of Mexican culture.
+        The park is decorated with bright murals, sculptures, and festively painted benches.
+        There are areas for picnicking, playgrounds for children, and open spaces for community events.
+        The park often hosts cultural festivals, bringing the spirit of a Mexican fiesta to life.</string>
+    <string name="park_place_descr_06">A modern park focused on sustainability and eco-consciousness.
+        The park features native plants, recycled art installations, and educational signage about environmental stewardship.
+        There are community gardens where visitors can participate in planting, as well as trails for walking and cycling.
+        The park also offers workshops and activities related to nature and sustainability.</string>
+    <string name="park_place_descr_07">This cozy and charming park is designed with a bakery theme in mind.
+        The park features paths lined with “bread roll” benches, “cupcake” picnic tables, and play areas for children shaped like oversize pastries.
+        There are flower beds and herb gardens, adding to the park’s sweet and fragrant ambiance.
+        It’s a delightful spot for families and food lovers alike.</string>
+    <string name="park_place_descr_08">A traditional park with a nostalgic Americana theme.
+        The park features wide-open spaces, picnic areas with classic red-and-white checkered tablecloths, and playgrounds reminiscent of old-time adventure camps.
+        There are also hiking trails, a small lake for fishing, and areas for sports, making it a perfect destination for outdoor enthusiasts.</string>
 
+    <string name="shopping_center_place_01">Bella Vista Plaza</string>
+    <string name="shopping_center_place_02">VivaMundo Mall</string>
+    <string name="shopping_center_place_03">ZenGarden Center</string>
+    <string name="shopping_center_place_04">Carnival Court</string>
+    <string name="shopping_center_place_05">EcoHaven Market</string>
+    <string name="shopping_center_place_06">The Artisan Alley</string>
+    <string name="shopping_center_place_07">Heritage Commons</string>
+    <string name="shopping_center_place_08">Fiesta Square</string>
+
+    <string name="shopping_center_place_descr_01">Bella Vista Plaza offers a picturesque shopping experience inspired by the elegance of European architecture.
+        With its stunning views, open-air courtyards, and charming boutique stores, this shopping center provides a relaxing environment for shoppers.
+        Enjoy fine dining at gourmet restaurants and browse high-end fashion, all within a beautifully designed space that blends luxury with comfort.</string>
+    <string name="shopping_center_place_descr_02">VivaMundo Mall is a vibrant and dynamic shopping center that brings the world to your doorstep.
+        With a diverse range of international retailers, global cuisine, and cultural events, this mall is a celebration of diversity.
+        Whether you’re shopping for the latest fashion trends or enjoying exotic foods, VivaMundo Mall offers an exciting and lively experience for everyone.</string>
+    <string name="shopping_center_place_descr_03">ZenGarden Center is a tranquil shopping destination designed to offer a serene escape from the hustle and bustle of everyday life.
+        The center features minimalist architecture, lush green spaces, and peaceful water features.
+        Visitors can enjoy a curated selection of boutique shops, wellness stores, and tea houses, all set in an environment that promotes relaxation and mindfulness.</string>
+    <string name="shopping_center_place_descr_04">Step into a world of color and excitement at Carnival Court, a shopping center that captures the lively spirit of a festival.
+        With its vibrant decor, live entertainment, and a variety of shops and eateries, Carnival Court offers a unique shopping experience full of fun and energy.
+        It’s the perfect place to find eclectic fashion, artisanal crafts, and enjoy a festive atmosphere.</string>
+    <string name="shopping_center_place_descr_05">EcoHaven Market is more than just a shopping center—it\'s a hub for sustainable living.
+        Built with eco-friendly materials and designed with green initiatives in mind, this market offers a range of organic products, vegan restaurants, and eco-conscious fashion.
+        It’s the ideal destination for those who value sustainability and want to shop in a way that supports the environment.</string>
+    <string name="shopping_center_place_descr_06">The Artisan Alley is a shopping center dedicated to craftsmanship and creativity.
+        Lined with specialty stores and artisanal boutiques, it’s the perfect place to discover unique, handcrafted items.
+        From custom jewelry to bespoke clothing, The Artisan Alley celebrates the work of skilled artisans and offers shoppers a truly personalized and one-of-a-kind shopping experience.</string>
+    <string name="shopping_center_place_descr_07">Heritage Commons is a shopping center that honors classic American design and tradition.
+        Featuring red-brick architecture, wide sidewalks, and vintage-inspired storefronts, it’s a nostalgic journey through time.
+        The center offers a mix of familiar retail stores, local boutiques, and traditional American dining, making it a welcoming destination for all.</string>
+    <string name="shopping_center_place_descr_08">Fiesta Square is a lively and colorful shopping center inspired by the vibrancy of Latin American culture.
+        The center’s festive atmosphere is enhanced by its bright murals, decorative tiles, and lively music.
+        Shoppers can explore a variety of shops offering everything from handmade crafts to modern fashion, and enjoy delicious Latin cuisine in a setting that feels like a celebration.</string>
 
 </resources>
